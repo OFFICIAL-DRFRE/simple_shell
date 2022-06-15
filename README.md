@@ -1,1 +1,1 @@
-Simple shell project with Becky
+Simple shell project with Frehiwot and Bereketab
