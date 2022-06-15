@@ -1,5 +1,5 @@
 .\" Man page for hsh
-.TH HSH 1 "28 August 2019" "Holberton" "Holberton Shell Man Page"
+.TH HSH 1 "15 Jun 2022" "Alx" "Alx Shell Man Page"
 .SH NAME
 .B hsh
 \- a simple command interpreter
